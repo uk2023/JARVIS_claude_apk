@@ -1,0 +1,6 @@
+{
+  "name": "Claude Interaction Model",
+  "description": "High-fidelity mobile implementation of Claude AI's turn-based interaction model featuring dynamic execution pills, phase-based step grouping, context bridges, synchronized bottom-sheet summary view, and serif markdown stream.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
